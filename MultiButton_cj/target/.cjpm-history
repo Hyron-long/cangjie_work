@@ -1,0 +1,62 @@
+{
+  "resolves": [
+    {
+      "rootPackageName": "MultiButton_cj",
+      "modulePath": ".",
+      "packagePath": {
+        "commonPaths": [],
+        "platformPaths": [
+          {
+            "_0": "package.src-dir",
+            "_1": "/Users/hyron/MyCode/cangjie/MultiButton_cj/src"
+          }
+        ]
+      },
+      "fullName": "MultiButton_cj",
+      "isMacroPackage": false,
+      "output-type": "executable",
+      "compile-option": "",
+      "native-compile-option": "",
+      "customized-option": {},
+      "link-option": "",
+      "native-link-option": "",
+      "requires": [],
+      "std-requires": [],
+      "c_libs": {},
+      "hasTestFiles": false,
+      "hasProdFiles": true,
+      "hasTestsInProdFiles": false,
+      "accessLevel": "public"
+    },
+    {
+      "rootPackageName": "MultiButton_cj",
+      "modulePath": ".",
+      "packagePath": {
+        "commonPaths": [],
+        "platformPaths": [
+          {
+            "_0": "package.src-dir",
+            "_1": "/Users/hyron/MyCode/cangjie/MultiButton_cj/src/hal"
+          }
+        ]
+      },
+      "fullName": "MultiButton_cj.hal",
+      "isMacroPackage": false,
+      "output-type": "static",
+      "compile-option": "",
+      "native-compile-option": "",
+      "customized-option": {},
+      "link-option": "",
+      "native-link-option": "",
+      "requires": [],
+      "std-requires": [],
+      "c_libs": {},
+      "hasTestFiles": false,
+      "hasProdFiles": true,
+      "hasTestsInProdFiles": false,
+      "accessLevel": "public"
+    }
+  ],
+  "binDeps": {},
+  "crossBinDeps": {}
+}

@@ -1,0 +1,26 @@
+{
+  "bin": {},
+  "pkg-build": {
+    "/Users/hyron/MyCode/cangjie/MultiButton_cj/src": {
+      "package": "MultiButton_cj",
+      "isMacro": false,
+      "accessLevel": "public",
+      "timeStamp": 1781229765,
+      "dependencies": [],
+      "std-dependencies": [],
+      "testUsed": false,
+      "mockUsed": false
+    },
+    "/Users/hyron/MyCode/cangjie/MultiButton_cj/src/hal": {
+      "package": "MultiButton_cj.hal",
+      "isMacro": false,
+      "accessLevel": "public",
+      "timeStamp": 1781229765,
+      "dependencies": [],
+      "std-dependencies": [],
+      "testUsed": false,
+      "mockUsed": false
+    }
+  },
+  "pkg-test": {}
+}
