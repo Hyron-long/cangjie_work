@@ -5,9 +5,20 @@
       "package": "MultiButton_cj",
       "isMacro": false,
       "accessLevel": "public",
-      "timeStamp": 1781229765,
+      "timeStamp": 1781232948,
       "dependencies": [],
-      "std-dependencies": [],
+      "std-dependencies": [
+        {
+          "orPackage": "",
+          "package": "std.collection",
+          "isStd": true,
+          "imports": [
+            {
+              "file": "/Users/hyron/MyCode/cangjie/MultiButton_cj/src/multi_button.cj"
+            }
+          ]
+        }
+      ],
       "testUsed": false,
       "mockUsed": false
     },
@@ -15,7 +26,7 @@
       "package": "MultiButton_cj.hal",
       "isMacro": false,
       "accessLevel": "public",
-      "timeStamp": 1781229765,
+      "timeStamp": 1781232814,
       "dependencies": [],
       "std-dependencies": [],
       "testUsed": false,

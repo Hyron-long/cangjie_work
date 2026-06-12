@@ -21,7 +21,9 @@
       "link-option": "",
       "native-link-option": "",
       "requires": [],
-      "std-requires": [],
+      "std-requires": [
+        "std.collection"
+      ],
       "c_libs": {},
       "hasTestFiles": false,
       "hasProdFiles": true,
